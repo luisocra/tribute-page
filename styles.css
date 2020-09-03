@@ -1,0 +1,23 @@
+#main {
+background-color: rgb(212, 212, 212);
+text-align: center;
+}
+#title {
+font-family: monospace;
+}
+#img-div {
+    padding: 10px;
+  background-color: rgb(255, 255, 255);
+}
+#image {
+max-width: 100%;
+height: auto;
+display: block;
+margin: auto;
+}
+
+ul {
+    text-align: left;
+   max-width: 500px;
+   margin: 0 auto;
+}
